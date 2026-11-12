@@ -1,0 +1,2 @@
+# APJTraders
+APJ Traders is a construction materials trading and warehouse management platform designed to streamline procurement, inventory management, sales, billing, and delivery operations. The system enables efficient management of suppliers, customers, construction materials, warehouse stock, purchase orders, sales transactions, payments 
